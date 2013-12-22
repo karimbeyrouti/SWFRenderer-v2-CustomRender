@@ -1,4 +1,9 @@
-﻿/*
+﻿
+/*
+This demo, modified from the Away3D examples uses the custom SWFRenderer capture classes to export Stage3D content    
+*/
+
+/*
 
 Particle explosions in Away3D using the Adobe AIR and Adobe Flash Player logos
 
